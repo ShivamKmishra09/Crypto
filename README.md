@@ -24,3 +24,12 @@ Krypto is a web application that allows users to send and receive cryptocurrenci
    ```bash
    git clone https://github.com/yourusername/krypto.git
    cd krypto
+   
+2. Install dependencies:
+   ```bash
+   npm install
+   
+2. Running the Development Server:
+   ```bash
+   npm run dev
+   
